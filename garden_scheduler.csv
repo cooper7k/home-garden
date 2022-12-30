@@ -1,0 +1,37 @@
+Vegetable,Season,Seed Start,Seed Start Weeks,Transplant Start Weeks,Continuous Harvest Maturity Weeks,Continuous Harvest Replant
+Broccoli,Spring,Indoor,12,5,16,TRUE
+Cabbage,Spring,Indoor,12,5,16,TRUE
+Parsley,Spring,Indoor,12,5,14,FALSE
+Onion,Spring,Indoor,10,4,20,
+Peppers,Spring,Indoor,7,-2,,
+Lettuce,Spring,Indoor,5,3,7,TRUE
+Tomatoes,Spring,Indoor,6,0,,
+Cucumbers,Spring,Indoor,1,1,9,TRUE
+Broccoli,Spring,Outdoor,5,,16,TRUE
+Cabbage,Spring,Outdoor,5,,16,TRUE
+Parsley,Spring,Outdoor,5,,,
+Peas,Spring,Outdoor,5,,10,TRUE
+Spinach,Spring,Outdoor,5,,,
+Lettuce,Spring,Outdoor,4,,7,TRUE
+Onions,Spring,Outdoor,4,,20,
+Bok Choy,Spring,Outdoor,3,,,
+Carrots,Spring,Outdoor,3,,10,TRUE
+Radishes,Spring,Outdoor,3,,4,TRUE
+Swiss Chard,Spring,Outdoor,3,,8,FALSE
+Pole Beans,Spring,Outdoor,0,,9,TRUE
+Bush Beans,Spring,Outdoor,0,,8,TRUE
+Corn,Spring,Outdoor,0,,12,TRUE
+Leeks,Spring,Outdoor,0,,,
+Squash,Spring,Outdoor,0,,,
+Tomatoes,Spring,Outdoor,0,,20,
+Cucumbers,Spring,Outdoor,-1,,9,TRUE
+Peppers,Spring,Outdoor,-2,,19,
+Broccoli,Fall,Indoor,16,,16,TRUE
+Brussel Sprouts,Fall,Indoor,5,,,
+Cabbage,Fall,Indoor,16,,16,TRUE
+Carrots,Fall,Indoor,11,,10,TRUE
+Kale,Fall,Indoor,10,,,
+Peas,Fall,Indoor,10,,10,TRUE
+Lettuce,Fall,Indoor,7,,7,TRUE
+Spinach,Fall,Indoor,7,,7,TRUE
+Radishes,Fall,Indoor,4,,4,TRUE
